@@ -1,6 +1,24 @@
-# 🏷️ Project Title
+<div align="center">
+  <img 
+    src="assets/Instagram - Slide 1 Hook.png" 
+    alt="AI Infrastructure Cinematic Visualization Engine | AI-Native Systems for Scalable, Intelligent Automation"
+    width="100%"
+  />
 
-**AI Infrastructure Cinematic Visualization — Bits & Brains AI**
+  <h1 style="font-size: 3em; font-weight: 800; margin: 0.4em 0 0;">
+    AI Infrastructure Cinematic Visualization Engine | AI-Native Systems for Scalable, Intelligent Automation
+  </h1>
+
+  <h3 style="margin-top: 0.6em;">
+    From Fragmented Workflows to Autonomous AI Infrastructure — Real-Time Visualization of System Failures, Recovery, and Scalable Intelligence
+  </h3>
+
+  <p>
+    <em>An advanced cinematic HTML engine showcasing AI-native infrastructure replacing fragmented systems. Experience real-time failure simulation, automation pipelines, and scalable intelligence through high-performance animations—built for modern enterprises seeking optimized, resilient, and future-ready AI systems. </em>
+  </p>
+</div>
+
+<hr />
 
 ---
 
